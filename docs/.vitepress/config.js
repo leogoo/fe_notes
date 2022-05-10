@@ -1,6 +1,7 @@
 module.exports = {
   title: 'leo前端小笔记',
   description: '缘，妙不可言',
+  base: '/fe_notes/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
