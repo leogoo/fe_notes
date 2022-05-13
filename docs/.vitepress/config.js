@@ -15,7 +15,7 @@ module.exports = {
     ],
     sidebar: {
       '/demo/': [
-        { text: '文件下载', link: '/demo/index' },
+        { text: '文件下载与上传', link: '/demo/index' },
         { text: '文字跑马灯', link: '/demo/marquee'}
       ],
       '/': [
