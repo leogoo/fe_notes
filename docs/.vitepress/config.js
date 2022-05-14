@@ -4,7 +4,7 @@ module.exports = {
   base: '/fe_notes/',
   themeConfig: {
     nav: [
-      { text: '首页', link: '/css/index' },
+      { text: '首页', link: '/' },
       { text: 'demo', link: '/demo/index'},
       {
         text: 'leo',
