@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,b as t}from"./app.9fa706b0.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"demo/Impr.md"}',p={},o=t("",1),e=[o];function c(l,u,r,i,k,d){return a(),s("div",null,e)}var _=n(p,[["render",c]]);export{f as __pageData,_ as default};

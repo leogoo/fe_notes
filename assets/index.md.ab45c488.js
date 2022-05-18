@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.022649bb.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}',s={},n=o("p",null,"\u5404\u7C7B\u57FA\u7840\u4F46\u53C8\u4E0D\u5E38\u89C1\u7684\u5C0F\u77E5\u8BC6",-1),r=[n];function c(_,d,i,p,l,f){return a(),t("div",null,r)}var h=e(s,[["render",c]]);export{u as __pageData,h as default};

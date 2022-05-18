@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as e,d as n}from"./app.022649bb.js";const k='{"title":"\u57FA\u7840","description":"","frontmatter":{},"headers":[{"level":3,"title":"\u57FA\u7840","slug":"\u57FA\u7840"}],"relativePath":"node/index.md"}',t={},o=n("",2),p=[o];function r(c,l,i,_,d,u){return e(),s("div",null,p)}var m=a(t,[["render",r]]);export{k as __pageData,m as default};
