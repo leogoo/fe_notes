@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,b as t}from"./app.96e179db.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/deploy/static.md"}',p={},o=t("",1),e=[o];function c(l,u,i,r,k,_){return a(),s("div",null,e)}var g=n(p,[["render",c]]);export{f as __pageData,g as default};

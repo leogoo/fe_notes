@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,b as p}from"./app.96e179db.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ts/mapped.md"}',t={},o=p("",1),e=[o];function c(l,r,k,u,i,y){return a(),s("div",null,e)}var g=n(t,[["render",c]]);export{m as __pageData,g as default};

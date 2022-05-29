@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.96e179db.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/index.md"}',r={},s=a("p",null,"project",-1),c=[s];function n(_,d,i,p,l,f){return o(),t("div",null,c)}var h=e(r,[["render",n]]);export{u as __pageData,h as default};

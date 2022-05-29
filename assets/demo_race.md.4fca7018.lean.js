@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,b as t}from"./app.96e179db.js";const g='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"demo/race.md"}',p={},o=t("",6),c=[o];function e(u,l,k,i,r,d){return a(),s("div",null,c)}var y=n(p,[["render",e]]);export{g as __pageData,y as default};

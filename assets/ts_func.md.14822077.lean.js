@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,b as p}from"./app.96e179db.js";const y='{"title":"\u51FD\u6570","description":"","frontmatter":{},"headers":[{"level":2,"title":"\u51FD\u6570","slug":"\u51FD\u6570"}],"relativePath":"ts/func.md"}',t={},o=p("",2),e=[o];function c(l,u,k,r,i,d){return a(),s("div",null,e)}var g=n(t,[["render",c]]);export{y as __pageData,g as default};

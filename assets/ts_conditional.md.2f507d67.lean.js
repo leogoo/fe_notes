@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,b as p}from"./app.96e179db.js";const y='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ts/conditional.md"}',t={},e=p("",2),o=[e];function c(r,l,k,u,i,d){return a(),s("div",null,o)}var g=n(t,[["render",c]]);export{y as __pageData,g as default};

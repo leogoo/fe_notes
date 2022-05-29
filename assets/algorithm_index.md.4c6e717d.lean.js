@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.96e179db.js";const h='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/index.md"}',r={},s=o("p",null,"\u7B97\u6CD5",-1),n=[s];function c(_,i,d,l,p,f){return a(),t("div",null,n)}var u=e(r,[["render",c]]);export{h as __pageData,u as default};
