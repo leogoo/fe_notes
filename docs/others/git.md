@@ -63,6 +63,26 @@
 - gsta: git stash
 - gstp: git stash pop
 
+## 标签
+1. 轻量标签和附注标签
+    - 轻量标签只是commit的引用，可以看作是一个commit的别名
+    - 附注标签：存储在git仓库中的完整对象，包括打标签者的信息、日期和其他标签信息
+1. 本地常用命令
+    - git tag： 列出所有标签
+    - git tag <标签名>： 在当前commit上添加一个标签
+    - git tag <标签名> <commitID>: 在指定commit上打上tag
+    - git tag -a <标签名> -m 附注信息 ：直接给当前的提交版本创建一个 【附注标签】
+    - git tag -a <标签名> <commitID> -m 附注信息 ：给指定的提交版本创建一个【附注标签】
+    - git tag -d 标签名称 : 删除指定名称的标签
+1. 远程仓库tag的操作
+    - git push origin <标签名称> : 将指定的标签上传到远程仓库
+    - git push origin --tags : 将所有不在远程仓库中的标签上传到远程仓库
+    - git push origin --delete <标签名>: 删除标签
+1. 检出标签，以标签指定的版本为基础版本新建一个分支
+    ```js
+    git checkout -b 分支名 标签名
+    ```
+
 ## 常用操作
 1. 创建远程分支，其实就是把本地分支，然后push到远端
     ```js

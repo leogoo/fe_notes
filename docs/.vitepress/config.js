@@ -20,6 +20,19 @@ module.exports = {
         { text: '二分法', link: '' }
       ],
       '/project/': [
+        { text: '规范', link: '/project/standardize/module',
+            children: [
+                { text: '模块规范', link: '/project/standardize/module' },
+                { text: '代码规范', link: '/project/standardize/code' },
+            ]
+        },
+        { text: '服务', link: '/project/serve/server',
+            children: [
+                { text: '云服务器', link: '/project/serve/server' },
+                { text: '域名系统', link: '/project/serve/dns' },
+                
+            ]
+        },
         { text: 'webpack', link: '/project/webpack' },
         { text: '首屏图片渲染优化', link: '/project/img'},
         {
@@ -42,6 +55,7 @@ module.exports = {
         { text: '页面生命周期', link: '/others/html' },
         { text: 'css基础', link: '/others/css' },
         { text: '图片', link: '/others/img' },
+        { text: 'json转ts', link: '/others/json '},
       ],
       '/': [
         {
